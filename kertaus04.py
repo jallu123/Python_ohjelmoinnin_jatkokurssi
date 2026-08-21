@@ -1,5 +1,5 @@
 # ### Loops
-#
+# .
 # Loops allow us to repeadetly run some lines of code without having to retype each line.
 # They are the basis for almost all data processing tasks and algorithms.
 #

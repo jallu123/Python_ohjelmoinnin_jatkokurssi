@@ -1,4 +1,4 @@
-# Sanakirja (Dictionary, Map): kokoelma avain-arvo -pareja
+# Sanakirja (Dictionary, Map): kokoelma avain-arvo -pareja.
 
 numerot = {}
 numerot["nolla"] = 0

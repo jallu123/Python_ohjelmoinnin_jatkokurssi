@@ -3,7 +3,7 @@ b = 2
 print("Viittaus a:han", id(a), "Viittaus b:hen", id(b))
 a = b
 print("Viittaus a:han", id(a), "Viittaus b:hen", id(b))
-
+# .
 
 m1 = [1,3,5]
 m2 = m1 # tämän jälkeen m1 ja m2 viittaavat samaan listaan

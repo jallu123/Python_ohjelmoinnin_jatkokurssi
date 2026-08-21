@@ -1,5 +1,5 @@
 # ### Functions
-#
+# .
 # It is often very useful to capsulate often-used code so that it can be used without
 # copying it. This can be accomplished by writing a function.
 #

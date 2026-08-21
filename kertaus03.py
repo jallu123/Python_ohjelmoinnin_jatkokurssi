@@ -1,5 +1,5 @@
 # ### Expressions
-#
+#.
 # Operators +, -, *, / and ** (power) work as expected. Division is always floating-point.
 # Integer division operator is // and modulo (reminder) operator %. To ensure intended order
 # of evaluation, use parethesis.

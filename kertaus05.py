@@ -1,5 +1,5 @@
 # #### Combining conditions: and, or, not
-#
+# .
 # Often the conditions for branching (and looping as well) need to combine several variable
 # values. The connectives "and" and "or" can be used for combining two or more conditions
 # and "not" for negating a condition.

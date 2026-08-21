@@ -1,5 +1,5 @@
 # ### Lists
-#
+# .
 # In Python list is the most popular way of keeping together number of related values,
 # for example groceries to buy, grades from courses, student ids of students in a course etc.
 #

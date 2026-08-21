@@ -33,7 +33,7 @@ print(type(credits), type(name), type(average), type(active))
 
 credits = 27 # old value 51 is now completely forgotten
 credits = "many" # now the value of age is of type string
-credits = "28" # this is leagal, and often confusing
+credits = "28" # this is legal, and often confusing
 credits = 28 # back to int value, the previous value "28" is now forgotten
 
 # print out the values in a nicer way
