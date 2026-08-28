@@ -67,7 +67,7 @@ groceriesList.sort()
 print(groceriesList)
 
 groceriesList.reverse()
-print(groceriesList)
+print("reversed", groceriesList)
 
 print("juice" in groceriesList)
 print("beer" in groceriesList)
