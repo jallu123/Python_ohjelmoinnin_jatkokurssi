@@ -1,0 +1,7 @@
+Tekstiä
+Lisää tekstiä
+Blaa blaa (blaa)
+
+Tyhjän rivin jälkeen Python-koodia:
+print("Hello world")
+The End.
